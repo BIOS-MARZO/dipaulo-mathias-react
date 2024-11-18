@@ -45,7 +45,7 @@ Sigue estos pasos para clonar el proyecto, instalar dependencias y ejecutarlo:
 
 3. **Ejecutar el proyecto**:
 
-   Una vez que las dependencias se han instalado, inicia el servidor local con el siguiente comando en http://localhost:5173:
+   Una vez que las dependencias se han instalado, inicia el servidor local con el siguiente comando en http://localhost:5000:
    ```bash
    npm run dev
    ```
