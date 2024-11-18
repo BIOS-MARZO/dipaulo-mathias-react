@@ -1,0 +1,8 @@
+.modal-backdrop {
+  position: fixed;
+  background: rgba(30, 30, 47, 0.85);
+}
+
+.modal-content {
+  background-color: #2b2b3d;
+}
