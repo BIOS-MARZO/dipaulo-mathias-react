@@ -12,7 +12,7 @@ Esta app permite agregar, editar, eliminar y filtrar tareas con una interfaz int
 - **Modal de tarea**: Cada tarea tiene un botón para editarla o eliminarla. Además, se utiliza un modal para agregar nuevas tareas o editar las existentes.
 - **Estilo elegante**: Estilo limpio con animaciones sutiles y transiciones de botones.
 - **Interactividad**: Los botones tienen efectos de hover y animaciones al interactuar con ellos.
-- **Persistencia**: Las tareas se guardan en un archivo JSON (ubicado en la carpeta `public/data/db.json`).
+- **Persistencia**: Las tareas se guardan en un archivo JSON (ubicado en la carpeta `public/db.json`).
 
 ---
 
